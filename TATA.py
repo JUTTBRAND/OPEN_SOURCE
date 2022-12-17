@@ -1,3 +1,6 @@
+#LEAKED BY : AWAIS TAHIR 
+#LIKNG TATA LATEST SC 
+#ENJOY GUYS
 from os import path
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://facebook.com/groups/351076900316263/')
